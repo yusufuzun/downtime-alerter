@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alerter.WebApp", "Alerter.WebApp\Alerter.WebApp.csproj", "{F35AEB58-084C-46BD-8FAE-60B08C4F00E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alerter.WebApp.UnitTests", "Alerter.WebApp.UnitTests\Alerter.WebApp.UnitTests.csproj", "{FC541B26-3CFD-4FA8-ABEA-700DFE7E36B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35AEB58-084C-46BD-8FAE-60B08C4F00E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35AEB58-084C-46BD-8FAE-60B08C4F00E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35AEB58-084C-46BD-8FAE-60B08C4F00E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35AEB58-084C-46BD-8FAE-60B08C4F00E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC541B26-3CFD-4FA8-ABEA-700DFE7E36B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC541B26-3CFD-4FA8-ABEA-700DFE7E36B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC541B26-3CFD-4FA8-ABEA-700DFE7E36B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC541B26-3CFD-4FA8-ABEA-700DFE7E36B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A10B140-85EE-439A-9F7F-14A9D200C77C}
+	EndGlobalSection
+EndGlobal
